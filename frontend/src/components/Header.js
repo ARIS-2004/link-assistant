@@ -23,24 +23,24 @@ const Header = () => {
               <div className="nav-item dropdown">
                 <span>Tools</span>
                 <div className="dropdown-content">
-                  <a href="#">Rank Tracker</a>
-                  <a href="#">Website Auditor</a>
-                  <a href="#">SEO SpyGlass</a>
-                  <a href="#">LinkAssistant</a>
-                  <a href="#">Keyword Research</a>
-                  <a href="#">Backlink Checker</a>
+                  <a href="/tools/rank-tracker">Rank Tracker</a>
+                  <a href="/tools/website-auditor">Website Auditor</a>
+                  <a href="/tools/seo-spyglass">SEO SpyGlass</a>
+                  <a href="/tools/linkassistant">LinkAssistant</a>
+                  <a href="/tools/keyword-research">Keyword Research</a>
+                  <a href="/tools/backlink-checker">Backlink Checker</a>
                 </div>
               </div>
 
               <div className="nav-item dropdown">
                 <span>Features</span>
                 <div className="dropdown-content">
-                  <a href="#">SERP Tracking</a>
-                  <a href="#">Site Audit</a>
-                  <a href="#">Backlink Analysis</a>
-                  <a href="#">Content Optimizer</a>
-                  <a href="#">Rank Tracking</a>
-                  <a href="#">Link Building</a>
+                  <a href="/features/serp-tracking">SERP Tracking</a>
+                  <a href="/features/site-audit">Site Audit</a>
+                  <a href="/features/backlink-analysis">Backlink Analysis</a>
+                  <a href="/features/content-optimizer">Content Optimizer</a>
+                  <a href="/features/rank-tracking">Rank Tracking</a>
+                  <a href="/features/link-building">Link Building</a>
                 </div>
               </div>
 
@@ -49,11 +49,11 @@ const Header = () => {
               <div className="nav-item dropdown">
                 <span>Resources</span>
                 <div className="dropdown-content">
-                  <a href="#">SEO Wiki</a>
-                  <a href="#">Video Tutorials</a>
-                  <a href="#">User Manual</a>
-                  <a href="#">Case Studies</a>
-                  <a href="#">Help Center</a>
+                  <a href="/resources/seo-wiki">SEO Wiki</a>
+                  <a href="/resources/video-tutorials">Video Tutorials</a>
+                  <a href="/resources/user-manual">User Manual</a>
+                  <a href="/resources/case-studies">Case Studies</a>
+                  <a href="/resources/help-center">Help Center</a>
                 </div>
               </div>
 
