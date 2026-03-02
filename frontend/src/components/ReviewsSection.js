@@ -68,7 +68,7 @@ const ReviewsSection = () => {
                   ))}
                 </div>
               )}
-              <a href={review.link} className="review-link" rel="nofollow" target="_blank">
+              <a href={review.link} className="review-link" rel="nofollow noreferrer" target="_blank">
                 {review.count}
               </a>
             </div>
